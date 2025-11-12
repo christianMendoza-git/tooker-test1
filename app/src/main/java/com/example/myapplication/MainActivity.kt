@@ -119,7 +119,7 @@ fun TeamList(teamList: List<Team>, modifier: Modifier = Modifier) {
 
 @Composable
 fun TeamsApp() {
-    val layoutDirection = LocalLayoutDirection.current  // lowercase
+    val layoutDirection = LocalLayoutDirection.current
     Surface(
         modifier = Modifier
             .fillMaxSize()
