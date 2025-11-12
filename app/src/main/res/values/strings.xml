@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="flower_1">Rose</string>
+    <string name="flower_2">Tulip</string>
+    <string name="flower_3">Sunflower</string>
+    <string name="flower_4">Daisy</string>
+    <string name="flower_5">Orchid</string>
+    <string name="flower_6">Lily</string>
+    <string name="flower_7">Lavender</string>
+    <string name="flower_8">Peony</string>
+    <string name="flower_9">Marigold</string>
+    <string name="flower_10">Hibiscus</string>
+    <string name="flower_11">Carnation</string>
+</resources>
