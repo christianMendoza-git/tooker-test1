@@ -114,7 +114,7 @@ fun TeamList(teamList: List<Team>, modifier: Modifier = Modifier) {
                 modifier = Modifier.padding(8.dp)
             )
         }
-    }  // Added missing closing parenthesis
+    }
 }
 
 @Composable
